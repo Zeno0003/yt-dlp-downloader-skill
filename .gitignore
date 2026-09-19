@@ -1,0 +1,6 @@
+# Python 编译缓存
+__pycache__/
+*.pyc
+
+# 旧版本 / 迁移备份（含个人路径清单，不进仓库）
+scripts/_backup_*/
